@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.faq-section {
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+}
+
+.img {
+    font-family: 'Montserrat', sans-serif;
+    background-image: url("../img/bg6.jpg");
+    background-attachment: fixed;
+    background-size: cover;
+    height: 150px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    text-decoration: line-through;
+    background-blend-mode: darken;
+}
+
+.faq {
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 20px;
+    width: 40%;
+
+}
+
+.question {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+}
+
+.answer {
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 5px;
+}
+
+.pair {
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+}

@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+.topp{
+    font-family: 'Montserrat', sans-serif;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.prodData {
+    font-family: 'Montserrat', sans-serif;
+    margin: 100px 0px 90px 240px;
+}
+.prodData H1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+}
+.prodData Input{
+    font-family: 'Montserrat', sans-serif;
+    background: none;
+    padding: 10px 0px 10px 0px;
+    border: 1px solid #8d8b8b;
+    border-radius: 5px;
+}
+.Cart{
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 100px 10px 100px;
+    background-color: rgb(255, 168, 168);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    margin: 5px;
+}
+.Buy{
+    font-family: 'Montserrat', sans-serif;
+    padding: 10px 110px 10px 110px;
+    background-color: rgb(37, 35, 35);
+    border-radius: 5px;
+    border: none;
+    color: white;
+    margin: 5px;
+}
+.info{
+    font-family: 'Montserrat', sans-serif;
+    width: 60%;
+    margin: auto;
+}
+.Content h3{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+}
+
